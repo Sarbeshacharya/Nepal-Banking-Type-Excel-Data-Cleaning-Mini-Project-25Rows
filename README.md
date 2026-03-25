@@ -1,6 +1,6 @@
 # Nepal Banking Type Excel Data Cleaning Mini Project (25 Rows)
 
-**Cleaned raw core-banking type data using Excel Text Functions maling it ready for further analysis.**
+**Cleaned raw core-banking type data using Excel Text Functions making it ready for further analysis.**
 
 ---
 
@@ -10,7 +10,7 @@ I took 25 rows of messy Nepal banking type customer data and turned it into a cl
 ---
 
 ## What I Did
-- Started with completely dirty data with extra spaces, broken dates, junk contact number, inconsistent balances,ect
+- Started with completely dirty data with extra spaces, broken dates, junk contact number, inconsistent balances,etc
 - Applied full Excel Text Functions pipeline
 - Created 3 sheets: Dirty Data → Cleaning Process → Final Clean Data
 
@@ -26,7 +26,7 @@ I took 25 rows of messy Nepal banking type customer data and turned it into a cl
 ---
 
 ## What's in This Repo
-- Dirty-Process-clean. – Raw messy data, Step-by-step cleaning, Final clean table 
+- [Dirty-Process-clean]– Raw messy data, Step-by-step cleaning, Final clean table 
 - Screenshots
   
 ---
