@@ -25,10 +25,20 @@ I took 25 rows of messy Nepal banking type customer data and turned it into a cl
 
 ---
 
-## What's in This Repo
-- [Dirty-Process-clean]– Raw messy data, Step-by-step cleaning, Final clean table 
-- Screenshots
-  
+## Screenshots
+
+**1. Dirty Data**  
+![Dirty Data](screenshots/1-dirty-data.png)
+
+**2. Cleaning Process**  
+![Cleaning Process](screenshots/2-cleaning-process.png)
+
+**3. Final Clean Data**  
+![Final Clean Data](screenshots/3-final-clean-data.png)
+
+## Files in This Repo
+- `datacleaningp.xlsx` – Complete file with all 3 sheets
+- `screenshots/` – Before, During, and After visuals  
 ---
 
 ## What I Learned
