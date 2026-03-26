@@ -28,13 +28,13 @@ I took 25 rows of messy Nepal banking type customer data and turned it into a cl
 ## Screenshots
 
 **1. Dirty Data**  
-![Dirty Data](screenshots/1-dirty-data.png)
+![Dirty Data](Screenshots/1-dirty-data.png)
 
 **2. Cleaning Process**  
-![Cleaning Process](screenshots/2-cleaning-process.png)
+![Cleaning Process](Screenshots/2-cleaning-process.png)
 
 **3. Final Clean Data**  
-![Final Clean Data](screenshots/3-final-clean-data.png)
+![Final Clean Data](Screenshots/3-final-clean-data.png)
 
 ## Files in This Repo
 - `datacleaningp.xlsx` – Complete file with all 3 sheets
